@@ -26,3 +26,8 @@ app.tenminuteswalk(['w', 's', 'e', 'e', 'n', 'n', 'e', 's', 'w', 'w']) # => true
 app.tenminuteswalk(['w', 's', 'e', 'n', 'n', 'e', 's', 'w', 'w', 'w']) # => false
 app.tenminuteswalk(['w', 's', 'e', 's', 's', 'e', 's', 'w', 'n', 'n']) # => false
 app.tenminuteswalk(['w', 's']) # => false
+
+###Instructions
+
+1. Clone this repo
+2. run `bundle install`
